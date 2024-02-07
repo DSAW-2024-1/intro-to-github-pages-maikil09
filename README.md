@@ -9,10 +9,17 @@ Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar un
 
 ## Parte 1: Desarrollo del HTML
 En esta primera parte, el objetivo es desarrollar todo el HTML necesario para montar la página de recetas. Utilizaremos las etiquetas semánticas de HTML para estructurar el contenido de manera significativa. Cada receta debe tener su propia sección con título, descripción, tiempo de preparación, ingredientes, pasos a seguir y tabla nutricional.
-![Avances Pagina](./assets/images/Despues.jpg)
 
 ## Parte 2: Estilos con CSS
 En la segunda parte debemos generar los estilos necesarios para que la página construida se vea igual a los diseños, para esto vamos a utilizar CSS y selectores de tipo clase y de tipo ID.
+
+
+# Desarrollo Taller
+
+- Imagen antes de aplicar HTML
+![Imagen Antes de aplicar HTML](./design/Antes.jpg)
+- Imagen Despues de Aplicar HTML
+![Imagen Antes de aplicar HTML](./design/Despues.jpg)
 
 
 ## Recursos:
@@ -25,5 +32,5 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 ### Créditos
 - [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-### esto es una prueba de modificacion del readme
+
 
