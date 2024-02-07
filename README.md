@@ -19,9 +19,14 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 - Imagen antes de aplicar HTML
 
 ![Imagen Antes de aplicar HTML](./design/Antes.jpg)
-- Imagen Despues de Aplicar HTML
+- Imagen despues de Aplicar HTML
 
-![Imagen Antes de aplicar HTML](./design/Despues.jpg)
+![Imagen despues de aplicar HTML](./design/Despues.jpg)
+- Imagen despues de aplicar estilos CSS
+
+![Imagen despues de aplicar estilos CSS](./design/Despues2.jpg)
+
+
 
 ### Autoevaluación: 4.5
 porque de lo que yo realice de forma autonoma no fue muy lejana visualmente a la pagina ni al codigo en HTML las etiquetas utilizadas de HTML en la estructura de la pagina fueron bastante acertadas de acuerdo al tipo de contenido, un error que cometi fue no utilizar los archivos que guia donde estaba el tipo de letra y los colores de cada seccion, sin embargo se intento encontrar e color exacto, en el CSS a pesar de que lo implemente bien (acertar en el estilo de cada uno de los elementos del HTML) puedo haberlo simplificado mucho mas, pero en general realice un buen trabajo.
