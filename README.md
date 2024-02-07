@@ -27,6 +27,25 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 
 ### Link Pagina Web: [Mi primera Pagina :)](https://dsaw-2024-1.github.io/intro-to-github-pages-maikil09/)
 
+## Sección Juegos
+
+#### Primer juego: 
+   Flexbox Froggy
+
+   ![primer juego](./design/flexbox%20froggy.jpg)
+
+#### Segundo juego: 
+   Grid Garden
+
+   ![segundo juego](./design/grid%20garden.jpg)
+
+#### Tercer juego: 
+   FlukeOut
+
+   ![tercer juego](./design/flukeout.jpg)
+
+
+
 
 ## Recursos:
 - En la carpeta `assets` encontrarán las fuentes y las imágenes que utilizaremos a lo largo del desarrollo.
