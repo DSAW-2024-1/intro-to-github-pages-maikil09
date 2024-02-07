@@ -17,9 +17,15 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 # Desarrollo Taller
 
 - Imagen antes de aplicar HTML
+
 ![Imagen Antes de aplicar HTML](./design/Antes.jpg)
 - Imagen Despues de Aplicar HTML
+
 ![Imagen Antes de aplicar HTML](./design/Despues.jpg)
+
+### Autoevaluación: 
+
+### Link Pagina Web: [Mi primera Pagina :)](https://dsaw-2024-1.github.io/intro-to-github-pages-maikil09/)
 
 
 ## Recursos:
